@@ -1,6 +1,6 @@
 FlickrWall makes a nice collage grid with keyword-related photos on Flickr
 
-tested with ruby 2.2.2
+tested with ruby 2.3.0-dev
 
 installation:
 
